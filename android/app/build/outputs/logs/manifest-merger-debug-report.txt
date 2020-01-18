@@ -1,0 +1,351 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/alivialiljenquist/Development/Call_Center_Project/call-center-app-master/android/app/src/main/AndroidManifest.xml:1:1-33:12
+INJECTED from /Users/alivialiljenquist/Development/Call_Center_Project/call-center-app-master/android/app/src/main/AndroidManifest.xml:1:1-33:12
+INJECTED from /Users/alivialiljenquist/Development/Call_Center_Project/call-center-app-master/android/app/src/main/AndroidManifest.xml:1:1-33:12
+INJECTED from /Users/alivialiljenquist/Development/Call_Center_Project/call-center-app-master/android/app/src/main/AndroidManifest.xml:1:1-33:12
+MERGED from /Users/alivialiljenquist/Development/Call_Center_Project/call-center-app-master/android/app/src/main/AndroidManifest.xml:1:1-33:12
+MERGED from [:@react-native-community_async-storage] /Users/alivialiljenquist/Development/Call_Center_Project/call-center-app-master/node_modules/@react-native-community/async-storage/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:@react-native-community_geolocation] /Users/alivialiljenquist/Development/Call_Center_Project/call-center-app-master/node_modules/@react-native-community/geolocation/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-gesture-handler] /Users/alivialiljenquist/Development/Call_Center_Project/call-center-app-master/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-image-picker] /Users/alivialiljenquist/Development/Call_Center_Project/call-center-app-master/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-21:12
+MERGED from [:react-native-geocoder] /Users/alivialiljenquist/Development/Call_Center_Project/call-center-app-master/node_modules/react-native-geocoder/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-maps] /Users/alivialiljenquist/Development/Call_Center_Project/call-center-app-master/node_modules/react-native-maps/lib/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-12:12
+MERGED from [:amazon-cognito-identity-js] /Users/alivialiljenquist/Development/Call_Center_Project/call-center-app-master/node_modules/amazon-cognito-identity-js/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-vector-icons] /Users/alivialiljenquist/Development/Call_Center_Project/call-center-app-master/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.react:react-native:0.60.5] /Users/alivialiljenquist/.gradle/caches/transforms-2/files-2.1/e331880734893efd6f54f3b37b22e7bb/AndroidManifest.xml:2:1-13:12
+MERGED from [org.webkit:android-jsc:r245459] /Users/alivialiljenquist/.gradle/caches/transforms-2/files-2.1/b7272feb4a38594b87de2232dd09711e/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/alivialiljenquist/.gradle/caches/transforms-2/files-2.1/8c8ad488d223db2bb4037d5746de8723/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] /Users/alivialiljenquist/.gradle/caches/transforms-2/files-2.1/32318a9ed7c17d3436bd0e4efacd3c43/AndroidManifest.xml:17:1-38:12
+MERGED from [com.google.android.gms:play-services-base:16.1.0] /Users/alivialiljenquist/.gradle/caches/transforms-2/files-2.1/f1fb9cc6138a49f3ee98477d4d10c174/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /Users/alivialiljenquist/.gradle/caches/transforms-2/files-2.1/6348dc5c7333dfef758c533acdf4afb4/AndroidManifest.xml:2:1-13:12
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/alivialiljenquist/.gradle/caches/transforms-2/files-2.1/d6467a5c520929fb60ceac2ab61a0b14/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/alivialiljenquist/.gradle/caches/transforms-2/files-2.1/2b07acd704430350f4cb5ee7d588558e/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/alivialiljenquist/.gradle/caches/transforms-2/files-2.1/8ca0fc99c0cf5ac762a5bd9c53326191/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/alivialiljenquist/.gradle/caches/transforms-2/files-2.1/96580dde0689212e22cc192cc852e946/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/alivialiljenquist/.gradle/caches/transforms-2/files-2.1/b9784264126324cdcf1f285c583f5110/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/alivialiljenquist/.gradle/caches/transforms-2/files-2.1/4abad59f7d5bb7bfa5e1348416657094/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/alivialiljenquist/.gradle/caches/transforms-2/files-2.1/d6a814cfa1676184204c1a4f39c1b803/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/alivialiljenquist/.gradle/caches/transforms-2/files-2.1/c5b65fda02ba80e92d89b2254adb8746/AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/alivialiljenquist/.gradle/caches/transforms-2/files-2.1/0d483d532a1addeed8bb60521143f0b5/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:16.2.0] /Users/alivialiljenquist/.gradle/caches/transforms-2/files-2.1/53e72dde4b745da70f8e5455877814e4/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/alivialiljenquist/.gradle/caches/transforms-2/files-2.1/7709c77749114b9a0b37224cb71ac99e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/alivialiljenquist/.gradle/caches/transforms-2/files-2.1/0d11caa004f9f57f95070ec3d2e373cb/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/alivialiljenquist/.gradle/caches/transforms-2/files-2.1/03d44e45da2c9c821fee49eef62b03c7/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/alivialiljenquist/.gradle/caches/transforms-2/files-2.1/3ae4acaf66ea251a1e18bb59524e9df9/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/alivialiljenquist/.gradle/caches/transforms-2/files-2.1/16155e53848047307b7b9dd90b1648eb/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/alivialiljenquist/.gradle/caches/transforms-2/files-2.1/13912d3d738527fdb8e9658fec617a8a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/alivialiljenquist/.gradle/caches/transforms-2/files-2.1/6838c6813c8cea67a51584b18fa15f6d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] /Users/alivialiljenquist/.gradle/caches/transforms-2/files-2.1/b5a9e284bb015976d51cedcd25f23b4c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/alivialiljenquist/.gradle/caches/transforms-2/files-2.1/b6928e53f692a59ea44fdd9f9f978fa2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/alivialiljenquist/.gradle/caches/transforms-2/files-2.1/14a78b5ee097206471cf5ba0a575108e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/alivialiljenquist/.gradle/caches/transforms-2/files-2.1/dc8b4aa96fcf0fb3d5fea4d9bebeff11/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/alivialiljenquist/.gradle/caches/transforms-2/files-2.1/47de8ead2428df98371d78be60d37342/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/alivialiljenquist/.gradle/caches/transforms-2/files-2.1/0378f90c2c808346ce2e6bd460ec5a2d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/alivialiljenquist/.gradle/caches/transforms-2/files-2.1/af2e32f9af826e0a3780797efcee29fb/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/alivialiljenquist/.gradle/caches/transforms-2/files-2.1/650bfbfe54496b6f3e0accaad9d31c89/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.1] /Users/alivialiljenquist/.gradle/caches/transforms-2/files-2.1/bfe8f9fb8f0f7df1cbf33388079ff1aa/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/alivialiljenquist/.gradle/caches/transforms-2/files-2.1/88e3a65d2d508fd944de0194946aa790/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/alivialiljenquist/.gradle/caches/transforms-2/files-2.1/1b8dc361aa88a5ed42cbd246f3927b66/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/alivialiljenquist/.gradle/caches/transforms-2/files-2.1/8f0e740ebe8f28a7b9513ffcc69fc937/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/alivialiljenquist/.gradle/caches/transforms-2/files-2.1/2ca59d132892233ac49f9cb25c092735/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/alivialiljenquist/.gradle/caches/transforms-2/files-2.1/7a7ee932f8d426b6e5e8bb6f446e3d40/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/alivialiljenquist/.gradle/caches/transforms-2/files-2.1/8776e16c07662d4dabe4945d2c7b151e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/alivialiljenquist/.gradle/caches/transforms-2/files-2.1/1eff79e6c43fa3aa2f58664aa7e3dd33/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/alivialiljenquist/.gradle/caches/transforms-2/files-2.1/a96e1c010311132b23c7aae48e6490db/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/alivialiljenquist/.gradle/caches/transforms-2/files-2.1/add77bcf6f0f4b7194fa64d0bca61ef9/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/alivialiljenquist/.gradle/caches/transforms-2/files-2.1/cbb4b0108e99da7f25abae4402ae54b7/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/alivialiljenquist/.gradle/caches/transforms-2/files-2.1/e6ae7bd58403406c121b67e6c6317edd/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/alivialiljenquist/.gradle/caches/transforms-2/files-2.1/ea0b9c3e73a9a2df0cc2f12c7160139f/AndroidManifest.xml:2:1-9:12
+INJECTED from /Users/alivialiljenquist/Development/Call_Center_Project/call-center-app-master/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /Users/alivialiljenquist/Development/Call_Center_Project/call-center-app-master/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /Users/alivialiljenquist/Development/Call_Center_Project/call-center-app-master/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+	package
+		ADDED from /Users/alivialiljenquist/Development/Call_Center_Project/call-center-app-master/android/app/src/main/AndroidManifest.xml:2:3-32
+		INJECTED from /Users/alivialiljenquist/Development/Call_Center_Project/call-center-app-master/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/alivialiljenquist/Development/Call_Center_Project/call-center-app-master/android/app/src/main/AndroidManifest.xml:2:3-32
+		INJECTED from /Users/alivialiljenquist/Development/Call_Center_Project/call-center-app-master/android/app/src/debug/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/alivialiljenquist/Development/Call_Center_Project/call-center-app-master/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/alivialiljenquist/Development/Call_Center_Project/call-center-app-master/android/app/src/main/AndroidManifest.xml:1:1-33:12
+		INJECTED from /Users/alivialiljenquist/Development/Call_Center_Project/call-center-app-master/android/app/src/debug/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/alivialiljenquist/Development/Call_Center_Project/call-center-app-master/android/app/src/debug/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /Users/alivialiljenquist/Development/Call_Center_Project/call-center-app-master/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/alivialiljenquist/Development/Call_Center_Project/call-center-app-master/android/app/src/main/AndroidManifest.xml:1:1-33:12
+		INJECTED from /Users/alivialiljenquist/Development/Call_Center_Project/call-center-app-master/android/app/src/debug/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/alivialiljenquist/Development/Call_Center_Project/call-center-app-master/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/alivialiljenquist/Development/Call_Center_Project/call-center-app-master/android/app/src/main/AndroidManifest.xml:4:5-67
+MERGED from [:react-native-maps] /Users/alivialiljenquist/Development/Call_Center_Project/call-center-app-master/node_modules/react-native-maps/lib/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:9:5-67
+MERGED from [:react-native-maps] /Users/alivialiljenquist/Development/Call_Center_Project/call-center-app-master/node_modules/react-native-maps/lib/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:9:5-67
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] /Users/alivialiljenquist/.gradle/caches/transforms-2/files-2.1/32318a9ed7c17d3436bd0e4efacd3c43/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] /Users/alivialiljenquist/.gradle/caches/transforms-2/files-2.1/32318a9ed7c17d3436bd0e4efacd3c43/AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from /Users/alivialiljenquist/Development/Call_Center_Project/call-center-app-master/android/app/src/main/AndroidManifest.xml:4:22-64
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/alivialiljenquist/Development/Call_Center_Project/call-center-app-master/android/app/src/main/AndroidManifest.xml:5:5-79
+	android:name
+		ADDED from /Users/alivialiljenquist/Development/Call_Center_Project/call-center-app-master/android/app/src/main/AndroidManifest.xml:5:22-76
+uses-permission#android.permission.CAMERA
+ADDED from /Users/alivialiljenquist/Development/Call_Center_Project/call-center-app-master/android/app/src/main/AndroidManifest.xml:6:5-65
+	android:name
+		ADDED from /Users/alivialiljenquist/Development/Call_Center_Project/call-center-app-master/android/app/src/main/AndroidManifest.xml:6:22-62
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/alivialiljenquist/Development/Call_Center_Project/call-center-app-master/android/app/src/main/AndroidManifest.xml:7:5-80
+	android:name
+		ADDED from /Users/alivialiljenquist/Development/Call_Center_Project/call-center-app-master/android/app/src/main/AndroidManifest.xml:7:22-78
+application
+ADDED from /Users/alivialiljenquist/Development/Call_Center_Project/call-center-app-master/android/app/src/main/AndroidManifest.xml:10:5-31:19
+MERGED from /Users/alivialiljenquist/Development/Call_Center_Project/call-center-app-master/android/app/src/main/AndroidManifest.xml:10:5-31:19
+MERGED from /Users/alivialiljenquist/Development/Call_Center_Project/call-center-app-master/android/app/src/main/AndroidManifest.xml:10:5-31:19
+MERGED from [:react-native-image-picker] /Users/alivialiljenquist/Development/Call_Center_Project/call-center-app-master/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:9:5-19:19
+MERGED from [:react-native-image-picker] /Users/alivialiljenquist/Development/Call_Center_Project/call-center-app-master/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:9:5-19:19
+MERGED from [com.facebook.react:react-native:0.60.5] /Users/alivialiljenquist/.gradle/caches/transforms-2/files-2.1/e331880734893efd6f54f3b37b22e7bb/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.60.5] /Users/alivialiljenquist/.gradle/caches/transforms-2/files-2.1/e331880734893efd6f54f3b37b22e7bb/AndroidManifest.xml:11:5-20
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] /Users/alivialiljenquist/.gradle/caches/transforms-2/files-2.1/32318a9ed7c17d3436bd0e4efacd3c43/AndroidManifest.xml:30:5-36:19
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] /Users/alivialiljenquist/.gradle/caches/transforms-2/files-2.1/32318a9ed7c17d3436bd0e4efacd3c43/AndroidManifest.xml:30:5-36:19
+MERGED from [com.google.android.gms:play-services-base:16.1.0] /Users/alivialiljenquist/.gradle/caches/transforms-2/files-2.1/f1fb9cc6138a49f3ee98477d4d10c174/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:16.1.0] /Users/alivialiljenquist/.gradle/caches/transforms-2/files-2.1/f1fb9cc6138a49f3ee98477d4d10c174/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /Users/alivialiljenquist/.gradle/caches/transforms-2/files-2.1/6348dc5c7333dfef758c533acdf4afb4/AndroidManifest.xml:7:5-11:19
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /Users/alivialiljenquist/.gradle/caches/transforms-2/files-2.1/6348dc5c7333dfef758c533acdf4afb4/AndroidManifest.xml:7:5-11:19
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/alivialiljenquist/.gradle/caches/transforms-2/files-2.1/c5b65fda02ba80e92d89b2254adb8746/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/alivialiljenquist/.gradle/caches/transforms-2/files-2.1/c5b65fda02ba80e92d89b2254adb8746/AndroidManifest.xml:11:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/alivialiljenquist/.gradle/caches/transforms-2/files-2.1/0d483d532a1addeed8bb60521143f0b5/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/alivialiljenquist/.gradle/caches/transforms-2/files-2.1/0d483d532a1addeed8bb60521143f0b5/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:16.2.0] /Users/alivialiljenquist/.gradle/caches/transforms-2/files-2.1/53e72dde4b745da70f8e5455877814e4/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:16.2.0] /Users/alivialiljenquist/.gradle/caches/transforms-2/files-2.1/53e72dde4b745da70f8e5455877814e4/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.0.1] /Users/alivialiljenquist/.gradle/caches/transforms-2/files-2.1/bfe8f9fb8f0f7df1cbf33388079ff1aa/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.1] /Users/alivialiljenquist/.gradle/caches/transforms-2/files-2.1/bfe8f9fb8f0f7df1cbf33388079ff1aa/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/alivialiljenquist/.gradle/caches/transforms-2/files-2.1/88e3a65d2d508fd944de0194946aa790/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/alivialiljenquist/.gradle/caches/transforms-2/files-2.1/88e3a65d2d508fd944de0194946aa790/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.1] /Users/alivialiljenquist/.gradle/caches/transforms-2/files-2.1/bfe8f9fb8f0f7df1cbf33388079ff1aa/AndroidManifest.xml:22:18-86
+	android:label
+		ADDED from /Users/alivialiljenquist/Development/Call_Center_Project/call-center-app-master/android/app/src/main/AndroidManifest.xml:12:7-39
+		ADDED from /Users/alivialiljenquist/Development/Call_Center_Project/call-center-app-master/android/app/src/main/AndroidManifest.xml:12:7-39
+	tools:ignore
+		ADDED from /Users/alivialiljenquist/Development/Call_Center_Project/call-center-app-master/android/app/src/debug/AndroidManifest.xml:7:75-114
+	android:roundIcon
+		ADDED from /Users/alivialiljenquist/Development/Call_Center_Project/call-center-app-master/android/app/src/main/AndroidManifest.xml:14:7-52
+		ADDED from /Users/alivialiljenquist/Development/Call_Center_Project/call-center-app-master/android/app/src/main/AndroidManifest.xml:14:7-52
+	tools:targetApi
+		ADDED from /Users/alivialiljenquist/Development/Call_Center_Project/call-center-app-master/android/app/src/debug/AndroidManifest.xml:7:54-74
+	android:icon
+		ADDED from /Users/alivialiljenquist/Development/Call_Center_Project/call-center-app-master/android/app/src/main/AndroidManifest.xml:13:7-41
+		ADDED from /Users/alivialiljenquist/Development/Call_Center_Project/call-center-app-master/android/app/src/main/AndroidManifest.xml:13:7-41
+	android:allowBackup
+		ADDED from /Users/alivialiljenquist/Development/Call_Center_Project/call-center-app-master/android/app/src/main/AndroidManifest.xml:15:7-34
+		ADDED from /Users/alivialiljenquist/Development/Call_Center_Project/call-center-app-master/android/app/src/main/AndroidManifest.xml:15:7-34
+	android:theme
+		ADDED from /Users/alivialiljenquist/Development/Call_Center_Project/call-center-app-master/android/app/src/main/AndroidManifest.xml:16:7-38
+		ADDED from /Users/alivialiljenquist/Development/Call_Center_Project/call-center-app-master/android/app/src/main/AndroidManifest.xml:16:7-38
+	android:usesCleartextTraffic
+		ADDED from /Users/alivialiljenquist/Development/Call_Center_Project/call-center-app-master/android/app/src/debug/AndroidManifest.xml:7:18-53
+	android:name
+		ADDED from /Users/alivialiljenquist/Development/Call_Center_Project/call-center-app-master/android/app/src/main/AndroidManifest.xml:11:7-38
+		ADDED from /Users/alivialiljenquist/Development/Call_Center_Project/call-center-app-master/android/app/src/main/AndroidManifest.xml:11:7-38
+meta-data#com.google.android.geo.API_KEY
+ADDED from /Users/alivialiljenquist/Development/Call_Center_Project/call-center-app-master/android/app/src/main/AndroidManifest.xml:17:7-19:66
+	android:value
+		ADDED from /Users/alivialiljenquist/Development/Call_Center_Project/call-center-app-master/android/app/src/main/AndroidManifest.xml:19:9-64
+	android:name
+		ADDED from /Users/alivialiljenquist/Development/Call_Center_Project/call-center-app-master/android/app/src/main/AndroidManifest.xml:18:9-54
+activity#com.call_center_app.MainActivity
+ADDED from /Users/alivialiljenquist/Development/Call_Center_Project/call-center-app-master/android/app/src/main/AndroidManifest.xml:20:7-29:18
+	android:label
+		ADDED from /Users/alivialiljenquist/Development/Call_Center_Project/call-center-app-master/android/app/src/main/AndroidManifest.xml:22:9-41
+	android:windowSoftInputMode
+		ADDED from /Users/alivialiljenquist/Development/Call_Center_Project/call-center-app-master/android/app/src/main/AndroidManifest.xml:24:9-51
+	android:configChanges
+		ADDED from /Users/alivialiljenquist/Development/Call_Center_Project/call-center-app-master/android/app/src/main/AndroidManifest.xml:23:9-79
+	android:name
+		ADDED from /Users/alivialiljenquist/Development/Call_Center_Project/call-center-app-master/android/app/src/main/AndroidManifest.xml:21:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/alivialiljenquist/Development/Call_Center_Project/call-center-app-master/android/app/src/main/AndroidManifest.xml:25:9-28:25
+action#android.intent.action.MAIN
+ADDED from /Users/alivialiljenquist/Development/Call_Center_Project/call-center-app-master/android/app/src/main/AndroidManifest.xml:26:13-65
+	android:name
+		ADDED from /Users/alivialiljenquist/Development/Call_Center_Project/call-center-app-master/android/app/src/main/AndroidManifest.xml:26:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /Users/alivialiljenquist/Development/Call_Center_Project/call-center-app-master/android/app/src/main/AndroidManifest.xml:27:13-73
+	android:name
+		ADDED from /Users/alivialiljenquist/Development/Call_Center_Project/call-center-app-master/android/app/src/main/AndroidManifest.xml:27:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Users/alivialiljenquist/Development/Call_Center_Project/call-center-app-master/android/app/src/main/AndroidManifest.xml:30:7-84
+	android:name
+		ADDED from /Users/alivialiljenquist/Development/Call_Center_Project/call-center-app-master/android/app/src/main/AndroidManifest.xml:30:17-81
+uses-sdk
+INJECTED from /Users/alivialiljenquist/Development/Call_Center_Project/call-center-app-master/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/alivialiljenquist/Development/Call_Center_Project/call-center-app-master/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/alivialiljenquist/Development/Call_Center_Project/call-center-app-master/android/app/src/main/AndroidManifest.xml
+MERGED from [:@react-native-community_async-storage] /Users/alivialiljenquist/Development/Call_Center_Project/call-center-app-master/node_modules/@react-native-community/async-storage/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:@react-native-community_async-storage] /Users/alivialiljenquist/Development/Call_Center_Project/call-center-app-master/node_modules/@react-native-community/async-storage/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:@react-native-community_geolocation] /Users/alivialiljenquist/Development/Call_Center_Project/call-center-app-master/node_modules/@react-native-community/geolocation/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:@react-native-community_geolocation] /Users/alivialiljenquist/Development/Call_Center_Project/call-center-app-master/node_modules/@react-native-community/geolocation/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-gesture-handler] /Users/alivialiljenquist/Development/Call_Center_Project/call-center-app-master/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] /Users/alivialiljenquist/Development/Call_Center_Project/call-center-app-master/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-image-picker] /Users/alivialiljenquist/Development/Call_Center_Project/call-center-app-master/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-image-picker] /Users/alivialiljenquist/Development/Call_Center_Project/call-center-app-master/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-geocoder] /Users/alivialiljenquist/Development/Call_Center_Project/call-center-app-master/node_modules/react-native-geocoder/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-geocoder] /Users/alivialiljenquist/Development/Call_Center_Project/call-center-app-master/node_modules/react-native-geocoder/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-maps] /Users/alivialiljenquist/Development/Call_Center_Project/call-center-app-master/node_modules/react-native-maps/lib/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-maps] /Users/alivialiljenquist/Development/Call_Center_Project/call-center-app-master/node_modules/react-native-maps/lib/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:amazon-cognito-identity-js] /Users/alivialiljenquist/Development/Call_Center_Project/call-center-app-master/node_modules/amazon-cognito-identity-js/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:amazon-cognito-identity-js] /Users/alivialiljenquist/Development/Call_Center_Project/call-center-app-master/node_modules/amazon-cognito-identity-js/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] /Users/alivialiljenquist/Development/Call_Center_Project/call-center-app-master/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] /Users/alivialiljenquist/Development/Call_Center_Project/call-center-app-master/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.60.5] /Users/alivialiljenquist/.gradle/caches/transforms-2/files-2.1/e331880734893efd6f54f3b37b22e7bb/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.60.5] /Users/alivialiljenquist/.gradle/caches/transforms-2/files-2.1/e331880734893efd6f54f3b37b22e7bb/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /Users/alivialiljenquist/.gradle/caches/transforms-2/files-2.1/b7272feb4a38594b87de2232dd09711e/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /Users/alivialiljenquist/.gradle/caches/transforms-2/files-2.1/b7272feb4a38594b87de2232dd09711e/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/alivialiljenquist/.gradle/caches/transforms-2/files-2.1/8c8ad488d223db2bb4037d5746de8723/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/alivialiljenquist/.gradle/caches/transforms-2/files-2.1/8c8ad488d223db2bb4037d5746de8723/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] /Users/alivialiljenquist/.gradle/caches/transforms-2/files-2.1/32318a9ed7c17d3436bd0e4efacd3c43/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] /Users/alivialiljenquist/.gradle/caches/transforms-2/files-2.1/32318a9ed7c17d3436bd0e4efacd3c43/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.1.0] /Users/alivialiljenquist/.gradle/caches/transforms-2/files-2.1/f1fb9cc6138a49f3ee98477d4d10c174/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.1.0] /Users/alivialiljenquist/.gradle/caches/transforms-2/files-2.1/f1fb9cc6138a49f3ee98477d4d10c174/AndroidManifest.xml:20:5-44
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /Users/alivialiljenquist/.gradle/caches/transforms-2/files-2.1/6348dc5c7333dfef758c533acdf4afb4/AndroidManifest.xml:5:5-43
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /Users/alivialiljenquist/.gradle/caches/transforms-2/files-2.1/6348dc5c7333dfef758c533acdf4afb4/AndroidManifest.xml:5:5-43
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/alivialiljenquist/.gradle/caches/transforms-2/files-2.1/d6467a5c520929fb60ceac2ab61a0b14/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/alivialiljenquist/.gradle/caches/transforms-2/files-2.1/d6467a5c520929fb60ceac2ab61a0b14/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/alivialiljenquist/.gradle/caches/transforms-2/files-2.1/2b07acd704430350f4cb5ee7d588558e/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/alivialiljenquist/.gradle/caches/transforms-2/files-2.1/2b07acd704430350f4cb5ee7d588558e/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/alivialiljenquist/.gradle/caches/transforms-2/files-2.1/8ca0fc99c0cf5ac762a5bd9c53326191/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/alivialiljenquist/.gradle/caches/transforms-2/files-2.1/8ca0fc99c0cf5ac762a5bd9c53326191/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/alivialiljenquist/.gradle/caches/transforms-2/files-2.1/96580dde0689212e22cc192cc852e946/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/alivialiljenquist/.gradle/caches/transforms-2/files-2.1/96580dde0689212e22cc192cc852e946/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/alivialiljenquist/.gradle/caches/transforms-2/files-2.1/b9784264126324cdcf1f285c583f5110/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/alivialiljenquist/.gradle/caches/transforms-2/files-2.1/b9784264126324cdcf1f285c583f5110/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/alivialiljenquist/.gradle/caches/transforms-2/files-2.1/4abad59f7d5bb7bfa5e1348416657094/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/alivialiljenquist/.gradle/caches/transforms-2/files-2.1/4abad59f7d5bb7bfa5e1348416657094/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/alivialiljenquist/.gradle/caches/transforms-2/files-2.1/d6a814cfa1676184204c1a4f39c1b803/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/alivialiljenquist/.gradle/caches/transforms-2/files-2.1/d6a814cfa1676184204c1a4f39c1b803/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/alivialiljenquist/.gradle/caches/transforms-2/files-2.1/c5b65fda02ba80e92d89b2254adb8746/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/alivialiljenquist/.gradle/caches/transforms-2/files-2.1/c5b65fda02ba80e92d89b2254adb8746/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/alivialiljenquist/.gradle/caches/transforms-2/files-2.1/0d483d532a1addeed8bb60521143f0b5/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/alivialiljenquist/.gradle/caches/transforms-2/files-2.1/0d483d532a1addeed8bb60521143f0b5/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.2.0] /Users/alivialiljenquist/.gradle/caches/transforms-2/files-2.1/53e72dde4b745da70f8e5455877814e4/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.2.0] /Users/alivialiljenquist/.gradle/caches/transforms-2/files-2.1/53e72dde4b745da70f8e5455877814e4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/alivialiljenquist/.gradle/caches/transforms-2/files-2.1/7709c77749114b9a0b37224cb71ac99e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/alivialiljenquist/.gradle/caches/transforms-2/files-2.1/7709c77749114b9a0b37224cb71ac99e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/alivialiljenquist/.gradle/caches/transforms-2/files-2.1/0d11caa004f9f57f95070ec3d2e373cb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/alivialiljenquist/.gradle/caches/transforms-2/files-2.1/0d11caa004f9f57f95070ec3d2e373cb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/alivialiljenquist/.gradle/caches/transforms-2/files-2.1/03d44e45da2c9c821fee49eef62b03c7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/alivialiljenquist/.gradle/caches/transforms-2/files-2.1/03d44e45da2c9c821fee49eef62b03c7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/alivialiljenquist/.gradle/caches/transforms-2/files-2.1/3ae4acaf66ea251a1e18bb59524e9df9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/alivialiljenquist/.gradle/caches/transforms-2/files-2.1/3ae4acaf66ea251a1e18bb59524e9df9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/alivialiljenquist/.gradle/caches/transforms-2/files-2.1/16155e53848047307b7b9dd90b1648eb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/alivialiljenquist/.gradle/caches/transforms-2/files-2.1/16155e53848047307b7b9dd90b1648eb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/alivialiljenquist/.gradle/caches/transforms-2/files-2.1/13912d3d738527fdb8e9658fec617a8a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/alivialiljenquist/.gradle/caches/transforms-2/files-2.1/13912d3d738527fdb8e9658fec617a8a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/alivialiljenquist/.gradle/caches/transforms-2/files-2.1/6838c6813c8cea67a51584b18fa15f6d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/alivialiljenquist/.gradle/caches/transforms-2/files-2.1/6838c6813c8cea67a51584b18fa15f6d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/alivialiljenquist/.gradle/caches/transforms-2/files-2.1/b5a9e284bb015976d51cedcd25f23b4c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/alivialiljenquist/.gradle/caches/transforms-2/files-2.1/b5a9e284bb015976d51cedcd25f23b4c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/alivialiljenquist/.gradle/caches/transforms-2/files-2.1/b6928e53f692a59ea44fdd9f9f978fa2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/alivialiljenquist/.gradle/caches/transforms-2/files-2.1/b6928e53f692a59ea44fdd9f9f978fa2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/alivialiljenquist/.gradle/caches/transforms-2/files-2.1/14a78b5ee097206471cf5ba0a575108e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/alivialiljenquist/.gradle/caches/transforms-2/files-2.1/14a78b5ee097206471cf5ba0a575108e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/alivialiljenquist/.gradle/caches/transforms-2/files-2.1/dc8b4aa96fcf0fb3d5fea4d9bebeff11/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/alivialiljenquist/.gradle/caches/transforms-2/files-2.1/dc8b4aa96fcf0fb3d5fea4d9bebeff11/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/alivialiljenquist/.gradle/caches/transforms-2/files-2.1/47de8ead2428df98371d78be60d37342/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/alivialiljenquist/.gradle/caches/transforms-2/files-2.1/47de8ead2428df98371d78be60d37342/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/alivialiljenquist/.gradle/caches/transforms-2/files-2.1/0378f90c2c808346ce2e6bd460ec5a2d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/alivialiljenquist/.gradle/caches/transforms-2/files-2.1/0378f90c2c808346ce2e6bd460ec5a2d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/alivialiljenquist/.gradle/caches/transforms-2/files-2.1/af2e32f9af826e0a3780797efcee29fb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/alivialiljenquist/.gradle/caches/transforms-2/files-2.1/af2e32f9af826e0a3780797efcee29fb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/alivialiljenquist/.gradle/caches/transforms-2/files-2.1/650bfbfe54496b6f3e0accaad9d31c89/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/alivialiljenquist/.gradle/caches/transforms-2/files-2.1/650bfbfe54496b6f3e0accaad9d31c89/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /Users/alivialiljenquist/.gradle/caches/transforms-2/files-2.1/bfe8f9fb8f0f7df1cbf33388079ff1aa/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /Users/alivialiljenquist/.gradle/caches/transforms-2/files-2.1/bfe8f9fb8f0f7df1cbf33388079ff1aa/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/alivialiljenquist/.gradle/caches/transforms-2/files-2.1/88e3a65d2d508fd944de0194946aa790/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/alivialiljenquist/.gradle/caches/transforms-2/files-2.1/88e3a65d2d508fd944de0194946aa790/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/alivialiljenquist/.gradle/caches/transforms-2/files-2.1/1b8dc361aa88a5ed42cbd246f3927b66/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/alivialiljenquist/.gradle/caches/transforms-2/files-2.1/1b8dc361aa88a5ed42cbd246f3927b66/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/alivialiljenquist/.gradle/caches/transforms-2/files-2.1/8f0e740ebe8f28a7b9513ffcc69fc937/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/alivialiljenquist/.gradle/caches/transforms-2/files-2.1/8f0e740ebe8f28a7b9513ffcc69fc937/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/alivialiljenquist/.gradle/caches/transforms-2/files-2.1/2ca59d132892233ac49f9cb25c092735/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/alivialiljenquist/.gradle/caches/transforms-2/files-2.1/2ca59d132892233ac49f9cb25c092735/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/alivialiljenquist/.gradle/caches/transforms-2/files-2.1/7a7ee932f8d426b6e5e8bb6f446e3d40/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/alivialiljenquist/.gradle/caches/transforms-2/files-2.1/7a7ee932f8d426b6e5e8bb6f446e3d40/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/alivialiljenquist/.gradle/caches/transforms-2/files-2.1/8776e16c07662d4dabe4945d2c7b151e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/alivialiljenquist/.gradle/caches/transforms-2/files-2.1/8776e16c07662d4dabe4945d2c7b151e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/alivialiljenquist/.gradle/caches/transforms-2/files-2.1/1eff79e6c43fa3aa2f58664aa7e3dd33/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/alivialiljenquist/.gradle/caches/transforms-2/files-2.1/1eff79e6c43fa3aa2f58664aa7e3dd33/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/alivialiljenquist/.gradle/caches/transforms-2/files-2.1/a96e1c010311132b23c7aae48e6490db/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/alivialiljenquist/.gradle/caches/transforms-2/files-2.1/a96e1c010311132b23c7aae48e6490db/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/alivialiljenquist/.gradle/caches/transforms-2/files-2.1/add77bcf6f0f4b7194fa64d0bca61ef9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/alivialiljenquist/.gradle/caches/transforms-2/files-2.1/add77bcf6f0f4b7194fa64d0bca61ef9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/alivialiljenquist/.gradle/caches/transforms-2/files-2.1/cbb4b0108e99da7f25abae4402ae54b7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/alivialiljenquist/.gradle/caches/transforms-2/files-2.1/cbb4b0108e99da7f25abae4402ae54b7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/alivialiljenquist/.gradle/caches/transforms-2/files-2.1/e6ae7bd58403406c121b67e6c6317edd/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/alivialiljenquist/.gradle/caches/transforms-2/files-2.1/e6ae7bd58403406c121b67e6c6317edd/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/alivialiljenquist/.gradle/caches/transforms-2/files-2.1/ea0b9c3e73a9a2df0cc2f12c7160139f/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/alivialiljenquist/.gradle/caches/transforms-2/files-2.1/ea0b9c3e73a9a2df0cc2f12c7160139f/AndroidManifest.xml:5:5-7:41
+INJECTED from /Users/alivialiljenquist/Development/Call_Center_Project/call-center-app-master/android/app/src/debug/AndroidManifest.xml
+INJECTED from /Users/alivialiljenquist/Development/Call_Center_Project/call-center-app-master/android/app/src/debug/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/alivialiljenquist/Development/Call_Center_Project/call-center-app-master/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/alivialiljenquist/Development/Call_Center_Project/call-center-app-master/android/app/src/debug/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/alivialiljenquist/Development/Call_Center_Project/call-center-app-master/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/alivialiljenquist/Development/Call_Center_Project/call-center-app-master/android/app/src/debug/AndroidManifest.xml
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Users/alivialiljenquist/Development/Call_Center_Project/call-center-app-master/android/app/src/debug/AndroidManifest.xml:5:5-77
+	android:name
+		ADDED from /Users/alivialiljenquist/Development/Call_Center_Project/call-center-app-master/android/app/src/debug/AndroidManifest.xml:5:22-75
+provider#com.imagepicker.FileProvider
+ADDED from [:react-native-image-picker] /Users/alivialiljenquist/Development/Call_Center_Project/call-center-app-master/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:10:9-18:20
+	android:grantUriPermissions
+		ADDED from [:react-native-image-picker] /Users/alivialiljenquist/Development/Call_Center_Project/call-center-app-master/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:14:13-47
+	android:authorities
+		ADDED from [:react-native-image-picker] /Users/alivialiljenquist/Development/Call_Center_Project/call-center-app-master/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:13-60
+	android:exported
+		ADDED from [:react-native-image-picker] /Users/alivialiljenquist/Development/Call_Center_Project/call-center-app-master/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:13-37
+	android:name
+		ADDED from [:react-native-image-picker] /Users/alivialiljenquist/Development/Call_Center_Project/call-center-app-master/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:13-56
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:react-native-image-picker] /Users/alivialiljenquist/Development/Call_Center_Project/call-center-app-master/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:13-17:58
+	android:resource
+		ADDED from [:react-native-image-picker] /Users/alivialiljenquist/Development/Call_Center_Project/call-center-app-master/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:17-55
+	android:name
+		ADDED from [:react-native-image-picker] /Users/alivialiljenquist/Development/Call_Center_Project/call-center-app-master/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:17-67
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from [:react-native-maps] /Users/alivialiljenquist/Development/Call_Center_Project/call-center-app-master/node_modules/react-native-maps/lib/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:10:5-81
+	android:name
+		ADDED from [:react-native-maps] /Users/alivialiljenquist/Development/Call_Center_Project/call-center-app-master/node_modules/react-native-maps/lib/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:10:22-78
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-maps:16.1.0] /Users/alivialiljenquist/.gradle/caches/transforms-2/files-2.1/32318a9ed7c17d3436bd0e4efacd3c43/AndroidManifest.xml:23:5-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:16.1.0] /Users/alivialiljenquist/.gradle/caches/transforms-2/files-2.1/32318a9ed7c17d3436bd0e4efacd3c43/AndroidManifest.xml:23:22-76
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:16.1.0] /Users/alivialiljenquist/.gradle/caches/transforms-2/files-2.1/32318a9ed7c17d3436bd0e4efacd3c43/AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:16.1.0] /Users/alivialiljenquist/.gradle/caches/transforms-2/files-2.1/32318a9ed7c17d3436bd0e4efacd3c43/AndroidManifest.xml:27:9-41
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:16.1.0] /Users/alivialiljenquist/.gradle/caches/transforms-2/files-2.1/32318a9ed7c17d3436bd0e4efacd3c43/AndroidManifest.xml:28:9-32
+uses-library#org.apache.http.legacy
+ADDED from [com.google.android.gms:play-services-maps:16.1.0] /Users/alivialiljenquist/.gradle/caches/transforms-2/files-2.1/32318a9ed7c17d3436bd0e4efacd3c43/AndroidManifest.xml:33:9-35:40
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:16.1.0] /Users/alivialiljenquist/.gradle/caches/transforms-2/files-2.1/32318a9ed7c17d3436bd0e4efacd3c43/AndroidManifest.xml:35:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:16.1.0] /Users/alivialiljenquist/.gradle/caches/transforms-2/files-2.1/32318a9ed7c17d3436bd0e4efacd3c43/AndroidManifest.xml:34:13-50
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:16.1.0] /Users/alivialiljenquist/.gradle/caches/transforms-2/files-2.1/f1fb9cc6138a49f3ee98477d4d10c174/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:16.1.0] /Users/alivialiljenquist/.gradle/caches/transforms-2/files-2.1/f1fb9cc6138a49f3ee98477d4d10c174/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:16.1.0] /Users/alivialiljenquist/.gradle/caches/transforms-2/files-2.1/f1fb9cc6138a49f3ee98477d4d10c174/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:16.1.0] /Users/alivialiljenquist/.gradle/caches/transforms-2/files-2.1/f1fb9cc6138a49f3ee98477d4d10c174/AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.maps.android:android-maps-utils:0.5] /Users/alivialiljenquist/.gradle/caches/transforms-2/files-2.1/6348dc5c7333dfef758c533acdf4afb4/AndroidManifest.xml:8:9-10:69
+MERGED from [com.google.android.gms:play-services-basement:16.2.0] /Users/alivialiljenquist/.gradle/caches/transforms-2/files-2.1/53e72dde4b745da70f8e5455877814e4/AndroidManifest.xml:23:9-25:69
+MERGED from [com.google.android.gms:play-services-basement:16.2.0] /Users/alivialiljenquist/.gradle/caches/transforms-2/files-2.1/53e72dde4b745da70f8e5455877814e4/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.maps.android:android-maps-utils:0.5] /Users/alivialiljenquist/.gradle/caches/transforms-2/files-2.1/6348dc5c7333dfef758c533acdf4afb4/AndroidManifest.xml:10:13-66
+	android:name
+		ADDED from [com.google.maps.android:android-maps-utils:0.5] /Users/alivialiljenquist/.gradle/caches/transforms-2/files-2.1/6348dc5c7333dfef758c533acdf4afb4/AndroidManifest.xml:9:13-58

@@ -1,0 +1,4 @@
+#Tue Dec 17 14:21:10 MST 2019
+base.0=/Users/alivialiljenquist/Development/Call_Center_Project/call-center-app-master/android/app/build/intermediates/transforms/dexMerger/debug/0
+renamed.0=classes.dex
+path.0=classes.dex
